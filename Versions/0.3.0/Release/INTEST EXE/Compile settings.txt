@@ -1,0 +1,1 @@
+pyinstaller.exe --onefile --name=INTEST --icon=app.ico -c
